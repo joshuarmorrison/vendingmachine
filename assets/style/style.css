@@ -1,1 +1,5 @@
 /* BASIC STYLES HERE */
+.card{
+    max-height: 100vh;
+    max-width: 100vh;
+}
